@@ -5,9 +5,9 @@ const Info = () => {
   return (
     <div className="info">
       <img src={image} className='info--photo-img' alt='photo'/>
-      <h2 className="info--name">Laura Smith</h2>
-      <h3 className="info--title">Front End Developer</h3>
-      <h4 className='info--email'>LauraSmith@code.com</h4>
+      <h1 className="info--name">Laura Smith</h1>
+      <h4 className="info--title">Front End Developer</h4>
+      <h6 className='info--email'>LauraSmith@code.com</h6>
       <button className='info--button'>Email</button>
     </div> 
   )
