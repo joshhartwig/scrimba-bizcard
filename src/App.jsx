@@ -1,5 +1,7 @@
 import Info from "./Info"
 import About from "./About"
+import Footer from "./Footer"
+
 import './styles/App.css'
 
 
@@ -9,6 +11,7 @@ const App = () => {
       <div className="app--container">
         <Info />
         <About />
+        <Footer />
       </div>
     </>
   )
