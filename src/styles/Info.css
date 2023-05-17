@@ -1,0 +1,20 @@
+.info--photo-img {
+  width: 50%;
+}
+
+.info--name {
+  color: #FFFFFF;
+}
+
+.info--title {
+  color: #F3BF99;
+}
+
+.info--email {
+  color: #F5F5F5;
+}
+
+.info-button {
+  border-radius: 8px;
+  background-color: #FFFFFF;
+}

@@ -1,0 +1,14 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  background-color: #1A1B21;
+}
+
+.about > h2 {
+  color: #F5F5F5;
+}
+
+.about > p {
+  color: #DCDCDC;
+}
+
