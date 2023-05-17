@@ -8,7 +8,7 @@ import './styles/App.css'
 const App = () => {
   return (
     <>
-      <div className="app--container">
+      <div className="container">
         <Info />
         <About />
         <Footer />
